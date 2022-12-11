@@ -1,10 +1,5 @@
-puts "fuck jannies"
-
-puts "hello sweet wife"
-
-puts "test"
-puts("test")
-print "space?"
-print("space here?")
-puts "or space here"
-puts "or above"
+x = [1, 2, 3]
+puts x
+p x
+x.inspect
+pp x
