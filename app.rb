@@ -1,5 +1,3 @@
-x = [1, 2, 3]
-puts x
-p x
-x.inspect
-pp x
+puts "Hello World!"
+print "Pass this test, please."
+p [1, 2, 3]
